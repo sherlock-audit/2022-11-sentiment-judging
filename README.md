@@ -251,7 +251,7 @@ Confirmed fix. Didn't follow recommendation above, but blocked all trades with i
 Source: https://github.com/sherlock-audit/2022-11-sentiment-judging/issues/3 
 
 ## Found by 
-pashov, obront
+obront, pashov
 
 ## Summary
 
